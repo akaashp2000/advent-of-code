@@ -1,0 +1,4 @@
+ipykernel
+advent-of-code-data
+python-dotenv
+black
