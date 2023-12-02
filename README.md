@@ -6,6 +6,7 @@ Here are my solutions to Advent of Code 2023.
 |Day   |Part 1   |Part 2   |
 |---|---|---|
 |[1](https://adventofcode.com/2023/day/1)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[2](https://adventofcode.com/2023/day/2)   |:heavy_check_mark:   |:heavy_check_mark:   |
 
 :heavy_check_mark: - completed
 
