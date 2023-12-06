@@ -10,6 +10,7 @@ Here are my solutions to Advent of Code 2023.
 |[3](https://adventofcode.com/2023/day/3)   |:heavy_check_mark:   |:heavy_check_mark:   |
 |[4](https://adventofcode.com/2023/day/4)   |:heavy_check_mark:   |:heavy_check_mark:   |
 |[5](https://adventofcode.com/2023/day/5)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[6](https://adventofcode.com/2023/day/6)   |:heavy_check_mark:   |:heavy_check_mark:   |
 
 :heavy_check_mark: - completed
 
