@@ -11,10 +11,13 @@ Here are my solutions to Advent of Code 2023.
 |[4](https://adventofcode.com/2023/day/4)   |:heavy_check_mark:   |:heavy_check_mark:   |
 |[5](https://adventofcode.com/2023/day/5)   |:heavy_check_mark:   |:heavy_check_mark:   |
 |[6](https://adventofcode.com/2023/day/6)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[7](https://adventofcode.com/2023/day/7)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[8](https://adventofcode.com/2023/day/8)   |:heavy_check_mark:   |  |
+|[9](https://adventofcode.com/2023/day/9)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[10](https://adventofcode.com/2023/day/10)   |:heavy_check_mark:   |   |
+|[11](https://adventofcode.com/2023/day/11)   |:heavy_check_mark:   |:heavy_check_mark:   |
 
 :heavy_check_mark: - completed
-
-:white_check_mark: - started, not completed
 
 ## Instructions
 
