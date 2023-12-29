@@ -9,27 +9,27 @@ Here are my solutions to Advent of Code.
 
 |Day   |Part 1   |Part 2   |
 |---|---|---|
-|[1](https://adventofcode.com/2022/day/1)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[2](https://adventofcode.com/2022/day/2)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[3](https://adventofcode.com/2022/day/3)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[4](https://adventofcode.com/2022/day/4)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[5](https://adventofcode.com/2022/day/5)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[6](https://adventofcode.com/2022/day/6)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[7](https://adventofcode.com/2022/day/7)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[8](https://adventofcode.com/2022/day/8)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[9](https://adventofcode.com/2022/day/9)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[10](https://adventofcode.com/2022/day/10)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[11](https://adventofcode.com/2022/day/11)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[12](https://adventofcode.com/2022/day/12)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[13](https://adventofcode.com/2022/day/13)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[14](https://adventofcode.com/2022/day/14)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[15](https://adventofcode.com/2022/day/15)   |:heavy_check_mark:   |   |
+|[1](https://adventofcode.com/2022/day/1)   |:star:   |:star:   |
+|[2](https://adventofcode.com/2022/day/2)   |:star:   |:star:   |
+|[3](https://adventofcode.com/2022/day/3)   |:star:   |:star:   |
+|[4](https://adventofcode.com/2022/day/4)   |:star:   |:star:   |
+|[5](https://adventofcode.com/2022/day/5)   |:star:   |:star:   |
+|[6](https://adventofcode.com/2022/day/6)   |:star:   |:star:   |
+|[7](https://adventofcode.com/2022/day/7)   |:star:   |:star:   |
+|[8](https://adventofcode.com/2022/day/8)   |:star:   |:star:   |
+|[9](https://adventofcode.com/2022/day/9)   |:star:   |:star:   |
+|[10](https://adventofcode.com/2022/day/10)   |:star:   |:star:   |
+|[11](https://adventofcode.com/2022/day/11)   |:star:   |:star:   |
+|[12](https://adventofcode.com/2022/day/12)   |:star:   |:star:   |
+|[13](https://adventofcode.com/2022/day/13)   |:star:   |:star:   |
+|[14](https://adventofcode.com/2022/day/14)   |:star:   |:star:   |
+|[15](https://adventofcode.com/2022/day/15)   |:star:   |   |
 |[16](https://adventofcode.com/2022/day/16)   |   |   |
 |[17](https://adventofcode.com/2022/day/17)   |   |   |
-|[18](https://adventofcode.com/2022/day/18)   |:heavy_check_mark:   |   |
+|[18](https://adventofcode.com/2022/day/18)   |:star:   |   |
 |[19](https://adventofcode.com/2022/day/19)   |   |   |
 |[20](https://adventofcode.com/2022/day/20)   |   |   |
-|[21](https://adventofcode.com/2022/day/21)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[21](https://adventofcode.com/2022/day/21)   |:star:   |:star:   |
 |[22](https://adventofcode.com/2022/day/22)   |   |   |
 |[23](https://adventofcode.com/2022/day/23)   |   |   |
 |[24](https://adventofcode.com/2022/day/24)   |   |   |
@@ -43,17 +43,17 @@ Here are my solutions to Advent of Code.
 
 |Day   |Part 1   |Part 2   |
 |---|---|---|
-|[1](https://adventofcode.com/2023/day/1)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[2](https://adventofcode.com/2023/day/2)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[3](https://adventofcode.com/2023/day/3)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[4](https://adventofcode.com/2023/day/4)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[5](https://adventofcode.com/2023/day/5)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[6](https://adventofcode.com/2023/day/6)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[7](https://adventofcode.com/2023/day/7)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[8](https://adventofcode.com/2023/day/8)   |:heavy_check_mark:   |  |
-|[9](https://adventofcode.com/2023/day/9)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[10](https://adventofcode.com/2023/day/10)   |:heavy_check_mark:   |   |
-|[11](https://adventofcode.com/2023/day/11)   |:heavy_check_mark:   |:heavy_check_mark:   |
+|[1](https://adventofcode.com/2023/day/1)   |:star:   |:star:   |
+|[2](https://adventofcode.com/2023/day/2)   |:star:   |:star:   |
+|[3](https://adventofcode.com/2023/day/3)   |:star:   |:star:   |
+|[4](https://adventofcode.com/2023/day/4)   |:star:   |:star:   |
+|[5](https://adventofcode.com/2023/day/5)   |:star:   |:star:   |
+|[6](https://adventofcode.com/2023/day/6)   |:star:   |:star:   |
+|[7](https://adventofcode.com/2023/day/7)   |:star:   |:star:   |
+|[8](https://adventofcode.com/2023/day/8)   |:star:   |  |
+|[9](https://adventofcode.com/2023/day/9)   |:star:   |:star:   |
+|[10](https://adventofcode.com/2023/day/10)   |:star:   |   |
+|[11](https://adventofcode.com/2023/day/11)   |:star:   |:star:   |
 |[12](https://adventofcode.com/2023/day/12)   |   |   |
 |[13](https://adventofcode.com/2023/day/13)   |   |   |
 |[14](https://adventofcode.com/2023/day/14)   |   |   |
@@ -72,7 +72,7 @@ Here are my solutions to Advent of Code.
 
 </details>
 
-:heavy_check_mark: - completed
+:star: - completed
 
 ## Instructions
 
