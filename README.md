@@ -78,7 +78,7 @@ Here are my solutions to Advent of Code.
 
 1. Clone this repo
 ```bash
-git clone https://github.com/akaashp2000/advent-of-code-2023
+git clone https://github.com/akaashp2000/advent-of-code
 ```
 2. Install the requirements (in a virtual environment if you wish)
 ```bash
