@@ -23,10 +23,10 @@ Here are my solutions to Advent of Code.
 |[12](https://adventofcode.com/2022/day/12)   |:heavy_check_mark:   |:heavy_check_mark:   |
 |[13](https://adventofcode.com/2022/day/13)   |:heavy_check_mark:   |:heavy_check_mark:   |
 |[14](https://adventofcode.com/2022/day/14)   |:heavy_check_mark:   |:heavy_check_mark:   |
-|[15](https://adventofcode.com/2022/day/15)   |:heavy_check_mark:   |:white_check_mark:   |
-|[16](https://adventofcode.com/2022/day/16)   |:white_check_mark:   |   |
+|[15](https://adventofcode.com/2022/day/15)   |:heavy_check_mark:   |   |
+|[16](https://adventofcode.com/2022/day/16)   |   |   |
 |[17](https://adventofcode.com/2022/day/17)   |   |   |
-|[18](https://adventofcode.com/2022/day/18)   |:heavy_check_mark:   |:white_check_mark:   |
+|[18](https://adventofcode.com/2022/day/18)   |:heavy_check_mark:   |   |
 |[19](https://adventofcode.com/2022/day/19)   |   |   |
 |[20](https://adventofcode.com/2022/day/20)   |   |   |
 |[21](https://adventofcode.com/2022/day/21)   |:heavy_check_mark:   |:heavy_check_mark:   |
