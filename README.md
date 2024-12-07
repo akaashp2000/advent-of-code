@@ -79,7 +79,7 @@ Here are my solutions to Advent of Code.
 |Day   |Part 1   |Part 2   |
 |---|---|---|
 |[1](https://adventofcode.com/2024/day/1)   |:star:   |:star:   |
-|[2](https://adventofcode.com/2024/day/2)   |   |   |
+|[2](https://adventofcode.com/2024/day/2)   |:star:   |:star:   |
 |[3](https://adventofcode.com/2024/day/3)   |   |   |
 |[4](https://adventofcode.com/2024/day/4)   |   |   |
 |[5](https://adventofcode.com/2024/day/5)   |   |   |
