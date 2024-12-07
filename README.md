@@ -84,7 +84,7 @@ Here are my solutions to Advent of Code.
 |[4](https://adventofcode.com/2024/day/4)   |:star:   |:star:   |
 |[5](https://adventofcode.com/2024/day/5)   |:star:   |:star:   |
 |[6](https://adventofcode.com/2024/day/6)   |   |   |
-|[7](https://adventofcode.com/2024/day/7)   |   |   |
+|[7](https://adventofcode.com/2024/day/7)   |:star:   |:star:   |
 |[8](https://adventofcode.com/2024/day/8)   |   |  |
 |[9](https://adventofcode.com/2024/day/9)   |   |   |
 |[10](https://adventofcode.com/2024/day/10)   |   |   |
