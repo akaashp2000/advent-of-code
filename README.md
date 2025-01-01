@@ -83,7 +83,7 @@ Here are my solutions to Advent of Code.
 |[3](https://adventofcode.com/2024/day/3)   |:star:   |:star:   |
 |[4](https://adventofcode.com/2024/day/4)   |:star:   |:star:   |
 |[5](https://adventofcode.com/2024/day/5)   |:star:   |:star:   |
-|[6](https://adventofcode.com/2024/day/6)   |   |   |
+|[6](https://adventofcode.com/2024/day/6)   |:star:   |   |
 |[7](https://adventofcode.com/2024/day/7)   |:star:   |:star:   |
 |[8](https://adventofcode.com/2024/day/8)   |:star:   |:star:   |
 |[9](https://adventofcode.com/2024/day/9)   |   |   |
